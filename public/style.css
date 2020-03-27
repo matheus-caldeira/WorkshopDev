@@ -152,6 +152,20 @@ footer a {
     margin: 16px 0;
 }
 
+.idea .options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    
+    grid: 80px;
+}
+
+.idea .options button {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
     /* modal */
 
 #modal {
